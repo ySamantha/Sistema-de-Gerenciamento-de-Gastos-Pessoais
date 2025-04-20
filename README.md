@@ -27,7 +27,7 @@ Para visualizar os diagramas, acesse a pasta [`/Diagramas`](./Diagramas) diretam
 <ul>
   <li><a href="https://github.com/ySamantha">Samantha Yumi Tanaka;</a></li>
   <li><a href="https://github.com/SamuelBati">Samuel Batista Rennó;</a></li>
-  <li>Samuel Rodrigues da Silva;</li>
+  <li><a href="https://github.com/Samuelblew">Samuel Rodrigues da Silva;</a></li>
   <li><a href="https://github.com/Vinhicious">Vinicios Trindade Costa;</a></li>
-  <li><a href="https://github.com/we-learner"">Wictor Emanoel Ponte Menezes.</a></li>
+  <li><a href="https://github.com/we-learner">Wictor Emanoel Ponte Menezes.</a></li>
 </ul>
