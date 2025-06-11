@@ -8,8 +8,8 @@ Este repositório contém os **diagramas** e o **código-fonte** utilizado no de
 Este é um sistema para controlar e organizar seus gastos pessoais de forma simples e prática. Com ele, você pode registrar despesas, categorizar gastos, visualizar relatórios mensais e manter suas finanças sob controle.
 
 ## 📷 Visualização
-Para visualizar os diagramas, acesse a pasta [`/Diagramas`](./Diagramas) diretamente no repositório.
-O código-fonte da aplicação pode ser encontrado na pasta[`/GastosPessoais`](./GastosPessoais)
+Para visualizar os diagramas, acesse a pasta [`/Diagramas`](./Diagramas) diretamente no repositório.  
+O código-fonte da aplicação pode ser encontrado na pasta[`/GastosPessoais`](./GastosPessoais).
 
 ## 📅 Etapas do Projeto
 1. Engenharia de Requisitos;
