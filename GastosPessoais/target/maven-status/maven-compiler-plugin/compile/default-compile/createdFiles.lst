@@ -1,0 +1,12 @@
+command\RegistrarDespesaCommand.class
+observer\NotificadorLembrete.class
+observer\Notificador.class
+observer\Orcamento.class
+db\DatabaseConnection.class
+app\Main.class
+strategy\PorDescricao.class
+facade\FinanceiroFacade.class
+command\Command.class
+model\Despesa.class
+strategy\CategorizadorStrategy.class
+model\Relatorio.class
