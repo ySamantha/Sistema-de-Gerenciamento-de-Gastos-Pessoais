@@ -12,13 +12,13 @@ Para visualizar os diagramas, acesse a pasta [`/Diagramas`](./Diagramas) diretam
 O código-fonte da aplicação pode ser encontrado na pasta[`/GastosPessoais`](./GastosPessoais).
 
 ## 📅 Etapas do Projeto
-1. Engenharia de Requisitos;
+1. Engenharia de Requisitos (Diagrama de Arquitetura N0);
 2. Análise e Projeto de Software no XP e Lean Inception;
 3. Atividade de OO e UML;
 4. Atividade Design Patterns;
 5. Modelo Mental de UML e Diagrama de Classes;
-6. Diagramas de Aquitetura (N1, N2 E N3);
-   Extra: Código-fonte.
+6. Diagramas de Aquitetura (N1, N2 e N3);
+7. Extra: Código-fonte.
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 - **Draw.io**: Para a criação dos diagramas de casos de uso, fluxogramas e diagramas de classes.
@@ -34,5 +34,6 @@ O código-fonte da aplicação pode ser encontrado na pasta[`/GastosPessoais`](.
   <li><a href="https://github.com/SamuelBati">Samuel Batista Rennó;</a></li>
   <li><a href="https://github.com/Samuelblew">Samuel Rodrigues da Silva;</a></li>
   <li><a href="https://github.com/Vinhicious">Vinicios Trindade Costa;</a></li>
+  <li>Vinicius Ryosuke Otsuka;</li>
   <li><a href="https://github.com/we-learner">Wictor Emanoel Ponte Menezes.</a></li>
 </ul>
