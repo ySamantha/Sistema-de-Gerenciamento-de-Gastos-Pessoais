@@ -17,7 +17,7 @@ O código-fonte da aplicação pode ser encontrado na pasta[`/GastosPessoais`](.
 3. Atividade de OO e UML;
 4. Atividade Design Patterns;
 5. Modelo Mental de UML e Diagrama de Classes;
-6. Diagramas de Aquitetura (N1, N2 e N3);
+6. Diagramas de Arquitetura (N1, N2 e N3);
 7. Extra: Código-fonte.
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
